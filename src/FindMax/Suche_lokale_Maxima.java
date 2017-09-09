@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * @author Lukas Krabbe + Mohammad Abdulreda
+ * @author Lukas Krabbe
  * 
  * The Class Suche_lokale_Maxima.
  */

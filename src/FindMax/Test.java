@@ -5,7 +5,7 @@ public class Test {
 	/**
 	 * The main method.
 	 * 
-	 * @author Lukas Krabbe + Mohammad Abdulreda
+	 * @author Lukas Krabbe
 	 * @param args the arguments
 	 */
 	public static void main(String[] args) {
